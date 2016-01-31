@@ -54,7 +54,7 @@ If provided an invalid integer, say -4 for example, the response will be an erro
 * Closing connection 0
 {"errors":{"size.invalid":"size is lesser than 0. Please provide a positive number"}}
 ```
-### Creating Code Coverage Report
+### Code Coverage Report
 ------
 In order to build the reporting for code coverage, execute the following command:
 ```sh
